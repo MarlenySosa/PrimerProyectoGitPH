@@ -3,7 +3,7 @@ pagina1.php
 <head></head>
 <body>
  <?php
- echo "Hola Mundo Marleny";
+ echo "Hola Mundo";
  ?>
 </body>
 </html>
